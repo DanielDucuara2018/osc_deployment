@@ -30,7 +30,7 @@ variable "secret_key" {
 # Define EC2 instance type
 variable "instance_type" {
   description = "The instance type of the EC2 instances"
-  default     = "t2.large"
+  default     = "r4.xlarge"
   type        = string
 }
 
