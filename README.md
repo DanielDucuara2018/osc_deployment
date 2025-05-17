@@ -9,3 +9,5 @@ This project provisions a basic AWS infrastructure using Terraform. It includes:
 - User data script (`init.sh`) for instance initialization.
 
 This setup is ideal for basic web server deployments and demonstrations.
+
+![diagram](images/architecture.png)
